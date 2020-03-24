@@ -59,7 +59,7 @@
 
     "boot": {
       "main":"bootstrap.js",
-      "path": ".",
+      "path": "./",
       "defaultExtension": "js"
     }
   }
