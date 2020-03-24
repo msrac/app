@@ -53,13 +53,13 @@
 
     "boot-component": {
       "main": "boot-component.js",
-      "path": "https://cdn.jsdelivr.net/gh/msrac/app",
+      "path": "/gh/msrac/app",
       "defaultExtension": "js"
     },
 
     "boot": {
       "main":"bootstrap.js",
-      "path": "https://cdn.jsdelivr.net/gh/msrac/app",
+      "path": "/gh/msrac/app",
       "defaultExtension": "js"
     }
   }
