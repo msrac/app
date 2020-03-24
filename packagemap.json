@@ -59,7 +59,7 @@
 
     "boot": {
       "main":"bootstrap.js",
-      "path": "/gh/msrac/app@0.1/",
+      "path": ".",
       "defaultExtension": "js"
     }
   }
